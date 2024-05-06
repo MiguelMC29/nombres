@@ -1,2 +1,9 @@
 nombres jugadores del Betis:
+<<<<<<< HEAD
 - Pedro Sánchez
+=======
+- Isco
+- Fekir
+- Jhonny Cardoso
+
+>>>>>>> 7bd23c7caa09c0ecac3fe01b5f77fa82c9f6d34c
